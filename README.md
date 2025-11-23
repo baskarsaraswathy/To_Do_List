@@ -171,7 +171,8 @@ Upload to GitHub Pages for free hosting.
 ```
 
 ## OUTPUT
-<img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/b3c92d59-6129-4b95-a0d6-1036302830e1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4635feb5-afe1-4c21-ba20-d8ac4661b5c4" />
+
 
 
 ## RESULT
